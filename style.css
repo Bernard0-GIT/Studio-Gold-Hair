@@ -373,3 +373,16 @@ text-align: center;
   opacity: 1;
 }
 
+
+.seu-texto {
+  font-size: 32px;
+}
+
+
+@media (max-width: 768px) {
+  .seu-texto {
+    font-size: 20px; 
+  }
+}
+
+
