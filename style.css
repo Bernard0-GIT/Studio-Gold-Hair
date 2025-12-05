@@ -374,15 +374,9 @@ text-align: center;
 }
 
 
-.seu-texto {
-  font-size: 32px;
-}
-
-
-@media (max-width: 768px) {
-  .seu-texto {
-    font-size: 20px; 
-  }
+p {
+  font-size: 16px;
+  font-weight: 500;
 }
 
 
